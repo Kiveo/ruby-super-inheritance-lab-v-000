@@ -1,8 +1,8 @@
 class Student
   # attr_accessor :first_name, :last_name
-  # 
+  #
   # def initialize
-  # 
+  #
   # end
 
   def hello
@@ -10,7 +10,7 @@ class Student
   end
 
   def raise_hand
-    "Pick me"
+    "Pick me!"
   end
-  
+
 end
